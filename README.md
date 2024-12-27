@@ -4,12 +4,13 @@ Git access to the Visual studio code tutorial
 
 Git
 - git init
-- git status
-- git add.
-- git commit -m "message"
+- git status(查看文件的修改状态)
+- git add.(添加所有修改文件到暂存区)
+- git commit -m "message"(这个提交的是暂存区的修改，没放入暂存区不提交)
 - git push
 - git checkout -b new-branch(create a new brach)
 - git checkout xxx(switch your branch)
+- git add filename(添加到暂存区)
 
 
 ## 级别
